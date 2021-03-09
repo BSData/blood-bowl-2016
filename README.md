@@ -11,8 +11,16 @@ Blood Bowl 2016
 
 #### Contents ####
 
+* [Important][]
 * [Overview][]
 * [Links][]
+
+[Important]: #important
+
+## Important ##
+[Important]: #important
+
+### This repo is no longer maintained. Current edition data is in [Blood Bowl repo](https://github.com/BSData/bloodbowl) ###
 
 ## Overview ##
 [Overview]: #overview

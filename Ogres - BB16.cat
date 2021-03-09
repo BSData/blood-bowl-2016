@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="f23e9ca0-d048-437b-944b-acfe2f8535b7" name="Ogre Team" revision="25" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="@xerus101 or @Dr. Toboggan" authorUrl="https://discord.gg/KqPVhds" library="false" gameSystemId="bfef4c13-8961-4056-a7ab-30a35cfaf51c" gameSystemRevision="27" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="f23e9ca0-d048-437b-944b-acfe2f8535b7" name="Ogre Team" revision="26" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="" authorUrl="https://discord.gg/KqPVhds" library="false" gameSystemId="bfef4c13-8961-4056-a7ab-30a35cfaf51c" gameSystemRevision="29" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <readme>Ogre teams have existed since the forming of the NAF and have even had some success such as winning the XV Blood Bowl. However, as any right-minded person will tell you, having more than one Ogre in the same place at the same time is a disaster in the making. The key to an Ogre team is the Snotlings. If they are close enough to jab an Ogre in the leg to remind him that they are playing in a match then you may have the makings of a team.</readme>
   <categoryEntries>
     <categoryEntry id="72d9-56a6-76ad-260c" name="Gnoblar" publicationId="46da-ba61-6439-83e5" hidden="false">

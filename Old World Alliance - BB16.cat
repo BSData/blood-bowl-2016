@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="5ca8-cd92-27fb-6d55" name="Old World Alliance" revision="1" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="@xerus101 or @Dr. Toboggan - Note this Catalogue is incomplete. Do not submit an issue for it." authorUrl="https://discord.gg/KqPVhds" library="false" gameSystemId="bfef4c13-8961-4056-a7ab-30a35cfaf51c" gameSystemRevision="28" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="5ca8-cd92-27fb-6d55" name="Old World Alliance" revision="2" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="Note this Catalogue is incomplete. Do not submit an issue for it." authorUrl="https://discord.gg/KqPVhds" library="false" gameSystemId="bfef4c13-8961-4056-a7ab-30a35cfaf51c" gameSystemRevision="29" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <readme>The folk of the Old World are keen players of games of chance and skill and, for many years, the towns and cities in which they reside have been home to enthusiastic backstreet competitions</readme>
   <categoryEntries>
     <categoryEntry id="0ca9-2f56-9850-2340" name="Human Lineman" publicationId="83ae-12ad-0093-c537" hidden="false">

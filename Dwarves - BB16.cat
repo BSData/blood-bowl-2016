@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="153dcec4-73de-437d-b877-f419c9c2d50f" name="Dwarf Team" revision="20" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="@xerus101 or @Dr. Toboggan" authorUrl="https://discord.gg/KqPVhds" library="false" gameSystemId="bfef4c13-8961-4056-a7ab-30a35cfaf51c" gameSystemRevision="27" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="153dcec4-73de-437d-b877-f419c9c2d50f" name="Dwarf Team" revision="21" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="" authorUrl="https://discord.gg/KqPVhds" library="false" gameSystemId="bfef4c13-8961-4056-a7ab-30a35cfaf51c" gameSystemRevision="29" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <readme>Dwarfs seem to be ideal Blood Bowl players, being compact, tough, well-armoured and having a stubborn knack of refusing to die! Most successful Dwarf teams work to the principle that if they can take out all the other team’s potential scorers, and wear down the rest, then there won’t be anybody left to stop them scoring the winning touchdowns!</readme>
   <categoryEntries>
     <categoryEntry id="f9cf-1ab0-7ff0-9ac7" name="Blocker" publicationId="46da-ba61-6439-83e5" hidden="false">

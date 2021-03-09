@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="453fbaaf-fb2b-4c78-923a-382c232a2779" name="Khemri Team" revision="26" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="@xerus101 or @Dr. Toboggan" authorUrl="https://discord.gg/KqPVhds" library="false" gameSystemId="bfef4c13-8961-4056-a7ab-30a35cfaf51c" gameSystemRevision="27" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="453fbaaf-fb2b-4c78-923a-382c232a2779" name="Khemri Team" revision="27" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="" authorUrl="https://discord.gg/KqPVhds" library="false" gameSystemId="bfef4c13-8961-4056-a7ab-30a35cfaf51c" gameSystemRevision="29" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <readme>Over 8,000 years ago, the Khemri played the first games of Blood Bowl against the Slann. But, as the Kingdom died off, so did the game until its rediscovery. And as the game returned, it was inevitable that the ancient players and stars of the Khemri would return to the pitch they once played on.</readme>
   <categoryEntries>
     <categoryEntry id="6ac8-fa86-8ff8-9522" name="Skeleton Lineman" publicationId="46da-ba61-6439-83e5" hidden="false">

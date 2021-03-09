@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="3996813e-c141-4ae8-8bac-aa8969a6dc4c" name="Skaven Team" revision="19" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="@xerus101 or @Dr. Toboggan" authorUrl="https://discord.gg/KqPVhds" library="false" gameSystemId="bfef4c13-8961-4056-a7ab-30a35cfaf51c" gameSystemRevision="27" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="3996813e-c141-4ae8-8bac-aa8969a6dc4c" name="Skaven Team" revision="20" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="" authorUrl="https://discord.gg/KqPVhds" library="false" gameSystemId="bfef4c13-8961-4056-a7ab-30a35cfaf51c" gameSystemRevision="29" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <readme>They may not be all that strong, they certainly aren’t tough, but boy oh boy are Skaven fast! Many an opponent has been left in the starting blocks as fast-moving Skaven players scamper through a gap in the line and run in for a lightning fast touchdown.</readme>
   <categoryEntries>
     <categoryEntry id="02cf-3304-12d7-c96e" name="Lineman" publicationId="46da-ba61-6439-83e5" hidden="false">
