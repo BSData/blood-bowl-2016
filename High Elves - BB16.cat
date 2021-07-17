@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="6c3c-cbdc-e77b-1dde" name="High Elves Team" revision="28" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="" authorUrl="https://discord.gg/KqPVhds" library="false" gameSystemId="808b-8138-3b9a-660b" gameSystemRevision="30" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="6c3c-cbdc-e77b-1dde" name="High Elves Team" revision="29" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="" authorUrl="https://discord.gg/KqPVhds" library="false" gameSystemId="808b-8138-3b9a-660b" gameSystemRevision="30" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <readme>The Elven Kingdom sponsored High Elf teams, feature a dangerous passing game and some of the most arrogant players you will find. Rich beyond the dreams of most teams, the High Elves often feature many Princes and noble born Elves on the team and what they cannot beat, they’ll buy.</readme>
   <categoryEntries>
     <categoryEntry id="b8fd-efd2-4341-3319" name="Lineman" publicationId="46da-ba61-6439-83e5" hidden="false">
@@ -514,7 +514,7 @@
           <entryLinks>
             <entryLink id="80f7-4847-57db-ef8b" name="-Attributes-" hidden="false" collective="false" import="true" targetId="d293-134b-f180-8a3a" type="selectionEntryGroup"/>
             <entryLink id="003e-7994-32ae-71ae" name="[A]gility Skills" hidden="false" collective="false" import="true" targetId="c0bd-76bb-4e87-8838" type="selectionEntryGroup"/>
-            <entryLink id="c955-bd09-f0f2-5513" name="[A]gility Skills" hidden="false" collective="false" import="true" targetId="c0bd-76bb-4e87-8838" type="selectionEntryGroup"/>
+            <entryLink id="c955-bd09-f0f2-5513" name="[G]eneral Skills" hidden="false" collective="false" import="true" targetId="b0f4-03d1-2c0d-d9ee" type="selectionEntryGroup"/>
             <entryLink id="6ee3-a5fd-caf3-eab3" name="[P]assing Skills" hidden="false" collective="false" import="true" targetId="0c6e-e059-a79c-ed70" type="selectionEntryGroup"/>
             <entryLink id="1c97-3204-601c-8c4b" name="[S]trength Skills" hidden="false" collective="false" import="true" targetId="6f7d-4bd6-79f0-1e8a" type="selectionEntryGroup"/>
           </entryLinks>
