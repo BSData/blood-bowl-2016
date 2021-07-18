@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="f417-08fa-abb8-31e5" name="Slann Team" revision="24" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="" authorUrl="https://discord.gg/KqPVhds" library="false" gameSystemId="808b-8138-3b9a-660b" gameSystemRevision="30" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="f417-08fa-abb8-31e5" name="Slann Team" revision="25" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="" authorUrl="https://discord.gg/KqPVhds" library="false" gameSystemId="808b-8138-3b9a-660b" gameSystemRevision="31" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <readme>The Slann are an ancient race of space travellers stranded on our planet many ages ago. After realising that rescue was never coming, they settled down in Lustria and enslaved their Lizardman neighbours. While most Slann prefer to become fat and lazy while reptilian thralls do their bidding, a few of the younger generation still enjoy a bit of Blood Bowl. The Slann have no passing game to speak of, but their ability to leap, dive and intercept are second to none.</readme>
   <categoryEntries>
     <categoryEntry id="8d8f-b663-6bbb-6cfb" name="Lineman" publicationId="46da-ba61-6439-83e5" hidden="false">
